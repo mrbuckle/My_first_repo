@@ -1,0 +1,26 @@
+h1 {
+    font-family: helvetica, arial, sans-serif;
+}
+
+
+/* Write your selector for .left below */
+
+.left {
+    float: left;
+    padding-right: 15px;
+}
+
+.right {
+    float: left;
+    padding-right: 15px;
+}
+
+.separator {
+    width: 750px;
+}
+
+
+/* Write your selector for .right below */
+
+
+/* Write your selector for .separator below */
