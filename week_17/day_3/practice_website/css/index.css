@@ -1,9 +1,40 @@
 nav {
-    height: 50px;
     background-color: lightgrey;
 }
 
-.inline-block {
+main {
+    height: 500px;
+    background-color: burlywood;
+}
+
+.navItem {
     display: inline-block;
     padding: 15px;
+    background-color: darkgrey;
+}
+
+section {
+    border: 1px solid black;
+}
+
+#leftSide {
+    height: 100%;
+    width: 29%;
+    float: left;
+}
+
+#topSide {
+    height: 100px;
+    border: 1px solid black;
+}
+
+#bottomSide {
+    height: 300px;
+    border: 1px solid black;
+}
+
+#rightSide {
+    height: 100%;
+    width: 70%;
+    float: left;
 }
